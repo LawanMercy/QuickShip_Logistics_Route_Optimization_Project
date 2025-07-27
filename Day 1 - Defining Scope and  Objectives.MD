@@ -51,4 +51,40 @@ To better understand the root cause of the QuickShip Logistics problem, I drafte
 
 **Result:** I unraveled issues such as late updates, manual route planning, delayed delivery, etc.
 
+## Requirement Documentation
+
+Captured essential route planning requirements: real time tracking, automated route generation.
+
+**Why:** To ensure that the proposed solution solves the actual business problems, needs.
+
+**Result:** Integrate the route optimization software tool like Routific, Onfleet, OptimoRoute.
+
+## Scope Definition
+
+Helped define in-scope and out-of-scope
+
+**Why:** To keep the project on track and achievable in 90 days or less.
+
+**Result:** A well-structured scope document, clear timeline is developed.
+
+## In-Scope and Out-of-Scope
+
+**In-Scope**
+
+- **Assessment of Current Dispatch and Routing Processes:**Analyzing the existing workflows, data, and technologies used for order scheduling, route creation, and delivery tracking.
+- **Requirements Gathering for a Route Optimization System:**Identifying and documenting the functional, non-functional, data, and interface requirements for a new or improved route optimization system. This includes stakeholder interviews and data analysis.
+- **Evaluation of Route Optimization Solutions:**Researching and comparing different route optimization software options, including off-the-shelf solutions and potential custom development.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
