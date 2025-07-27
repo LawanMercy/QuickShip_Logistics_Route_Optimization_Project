@@ -71,9 +71,9 @@ Helped define in-scope and out-of-scope
 
 **In-Scope**
 
-- **Assessment of Current Dispatch and Routing Processes:**Analyzing the existing workflows, data, and technologies used for order scheduling, route creation, and delivery tracking.
-- **Requirements Gathering for a Route Optimization System:**Identifying and documenting the functional, non-functional, data, and interface requirements for a new or improved route optimization system. This includes stakeholder interviews and data analysis.
-- **Evaluation of Route Optimization Solutions:**Researching and comparing different route optimization software options, including off-the-shelf solutions and potential custom development.
+- **Assessment of Current Dispatch and Routing Processes:** Analyzing the existing workflows, data, and technologies used for order scheduling, route creation, and delivery tracking.
+- **Requirements Gathering for a Route Optimization System:** Identifying and documenting the functional, non-functional, data, and interface requirements for a new or improved route optimization system. This includes stakeholder interviews and data analysis.
+- **Evaluation of Route Optimization Solutions:** Researching and comparing different route optimization software options, including off-the-shelf solutions and potential custom development.
 
 
 
