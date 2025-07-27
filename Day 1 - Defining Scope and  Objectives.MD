@@ -51,7 +51,7 @@ To better understand the root cause of the QuickShip Logistics problem, I drafte
 
 **Result:** I unraveled issues such as late updates, manual route planning, delayed delivery, etc.
 
-## Requirement Documentation
+- **Requirement Documentation**
 
 Captured essential route planning requirements: real time tracking, automated route generation.
 
@@ -59,7 +59,7 @@ Captured essential route planning requirements: real time tracking, automated ro
 
 **Result:** Integrate the route optimization software tool like Routific, Onfleet, OptimoRoute.
 
-## Scope Definition
+- **Scope Definition**
 
 Helped define in-scope and out-of-scope
 
