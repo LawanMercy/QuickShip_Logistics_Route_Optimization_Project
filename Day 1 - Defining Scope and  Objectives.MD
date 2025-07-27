@@ -74,10 +74,10 @@ Helped define in-scope and out-of-scope
 - **Assessment of Current Dispatch and Routing Processes:** Analyzing the existing workflows, data, and technologies used for order scheduling, route creation, and delivery tracking.
 - **Requirements Gathering for a Route Optimization System:** Identifying and documenting the functional, non-functional, data, and interface requirements for a new or improved route optimization system. This includes stakeholder interviews and data analysis.
 - **Evaluation of Route Optimization Solutions:** Researching and comparing different route optimization software options, including off-the-shelf solutions and potential custom development.
-
-
-
-
+- **Development of a To-Be Process Design:** Creating a future-state process map that incorporates the route optimization system and outlines improved workflows.
+- **High-Level Implementation Planning:** Developing a high-level plan for implementing the chosen route optimization solution, including key steps, timelines, and resource considerations.
+- **Focus on Last-Mile Delivery:** The project will primarily focus on optimizing the "last mile" delivery process, from the warehouse to the customer's location.
+- **Integration with GPS Mapping Services:** Ensuring the route optimization system integrates with GPS mapping services like Google Maps or Waze for real-time traffic data and navigation.
 
 
 
