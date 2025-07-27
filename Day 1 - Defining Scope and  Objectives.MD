@@ -25,5 +25,6 @@ Having a solution for these problems will boost sales, improve customers satisfa
 ## Project Objectives
 - **Primary Objective:** Improve delivery efficiency and customer satisfaction by optimizing the dispatch and routing process.
 - **Supporting Objectives (SMART - Specific, Measurable, Achievable, Relevant, Time-bound):**
+  - **Reduce Delivery Costs:** Decrease average delivery costs by 15% within the next 6 months through optimized routing and fuel consumption management.
 
 
