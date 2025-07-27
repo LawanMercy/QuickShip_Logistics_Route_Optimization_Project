@@ -35,9 +35,18 @@ Having a solution for these problems will boost sales, improve customers satisfa
 
 ## Requirement Gathering
 
-  - ** Stakeholders Engagement**
+  - **Stakeholders Engagement**
 I engaged with dispatchers, truck drivers, warehouse managers, vendors, and customers.
+
 **Why:** To learn about their pain areas and expectations.
 
-** Result:** I compiled a list of user needs such as frequent routes, real-time dashboards, customers complaints and automated order systems.
+**Result:** I compiled a list of user needs such as frequent routes, real-time dashboards, customers complaints and automated order systems.
+
+  - **Process Mapping**
+To better understand the root cause of the QuickShip Logistics problem, I drafted out a visual workflow of the existing manual route planning process being used.
+
+**Why:** To identify and focus on the areas of delay, customers dissatisfaction, high cost consumption and overall inefficiency.
+
+**Result:** I unraveled issues such as late updates, manual route planning, delayed delivery, etc.
+
 
