@@ -21,3 +21,13 @@ QuickShip Logistics is facing challenges due to inefficient delivery operations,
 - Increased fuel consumption
 
 Having a solution for these problems will boost sales, improve customers satisfaction, reduce costs and most importantly enhance operational flow.
+
+## Project Objectives
+- ## Primary Objective: Improve delivery efficiency and customer satisfaction by optimizing the dispatch and routing process.
+
+- Frequent late shipments
+- High delivery cost
+- Inefficient delivery operation
+- Increased fuel consumption
+
+Having a solution for these problems will boost sales, improve customers satisfaction, reduce costs and most importantly enhance operational flow.
