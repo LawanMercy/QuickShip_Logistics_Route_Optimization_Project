@@ -34,8 +34,10 @@ Having a solution for these problems will boost sales, improve customers satisfa
   - **Ensure Regulatory Compliance:** Ensure that all routes and driver schedules comply with relevant regulations (e.g., driver work-hour limits) within the next 2 months.
 
 ## Requirement Gathering
-- ** Stakeholders Engagement**
+
+  - ** Stakeholders Engagement**
 I engaged with dispatchers, truck drivers, warehouse managers, vendors, and customers.
 **Why:** To learn about their pain areas and expectations.
+
 ** Result:** I compiled a list of user needs such as frequent routes, real-time dashboards, customers complaints and automated order systems.
 
