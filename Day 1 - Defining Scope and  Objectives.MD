@@ -1,4 +1,5 @@
-##  ShopWorld Gap Analysis 
+## Business Analyst Project: QuickShip Logistics Route Optimization Project.
 
-I conducted a **gap analysis** after carefully designing the **To-Be** process for ShopWorld.
-This involved comparing it with their current manual process to identify key gaps. 
+Prepared by: Lawan Opeyemi Mercy
+Role: Business Analyst
+Date: July 4, 2025 
