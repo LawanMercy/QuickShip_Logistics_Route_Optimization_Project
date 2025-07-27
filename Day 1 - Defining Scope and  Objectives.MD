@@ -25,6 +25,10 @@ Having a solution for these problems will boost sales, improve customers satisfa
 ## Project Objectives
 - **Primary Objective:** Improve delivery efficiency and customer satisfaction by optimizing the dispatch and routing process.
 - **Supporting Objectives (SMART - Specific, Measurable, Achievable, Relevant, Time-bound):**
-  - **Reduce Delivery Costs:** Decrease average delivery costs by 15% within the next 6 months through optimized routing and fuel consumption management.
-
-
+  - **Reduce Delivery Costs:** Decrease average delivery costs by 15% within the next 6 months   through optimized routing and fuel consumption management.
+  - **Improve On-Time Delivery Rate:** Increase the on-time delivery rate from the current 75% to 95% within the next 6 months.
+  - **Reduce Customer Complaints:** Decrease in the number of customer complaints related to late deliveries by 40% within the next 3 months.
+  - **Automate Route Planning:** Implement a route optimization system that automates the route planning process for 90% of deliveries within the next 4 months.
+  - **Improve Dispatcher Efficiency:** Reduce the average time spent by dispatchers on route planning per delivery by 50% within the next 3 months.
+  - **Enhance Real-Time Visibility:** Provide real-time tracking of all vehicles and deliveries to dispatchers and customers within the next 4 months.
+  - **Ensure Regulatory Compliance:** Ensure that all routes and driver schedules comply with relevant regulations (e.g., driver work-hour limits) within the next 2 months.
