@@ -32,3 +32,10 @@ Having a solution for these problems will boost sales, improve customers satisfa
   - **Improve Dispatcher Efficiency:** Reduce the average time spent by dispatchers on route planning per delivery by 50% within the next 3 months.
   - **Enhance Real-Time Visibility:** Provide real-time tracking of all vehicles and deliveries to dispatchers and customers within the next 4 months.
   - **Ensure Regulatory Compliance:** Ensure that all routes and driver schedules comply with relevant regulations (e.g., driver work-hour limits) within the next 2 months.
+
+## Requirement Gathering
+- ** Stakeholders Engagement**
+I engaged with dispatchers, truck drivers, warehouse managers, vendors, and customers.
+**Why:** To learn about their pain areas and expectations.
+** Result:** I compiled a list of user needs such as frequent routes, real-time dashboards, customers complaints and automated order systems.
+
