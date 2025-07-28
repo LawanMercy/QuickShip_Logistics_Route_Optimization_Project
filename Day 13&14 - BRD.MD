@@ -67,5 +67,6 @@ An explanation of how all components are integrated for real-time visibility and
 For collaborations, feedback, or full access to editable files:
 
 [LinkedIn](https://www.linkedin.com/in/opeyemi-mercy-lawan-81a048276/)
+
 [Email](mailto:messilawan2008@gmail.com)
 
