@@ -7,6 +7,30 @@ The Business Requirements Document (BRD) includes all functional and non-functio
 
 The BRD includes:
 
-**Executive Summary:** 
+ - **Executive Summary:** 
 
 Introduction to the business problem and proposed solution.
+
+ - **SMART Project Objectives** 
+
+Clearly defined goals that are Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+- **Project Scope** 
+
+What was included and excluded from the project.
+
+- **Functional Requirements and Non-Functional Requirement** 
+
+Discusses what the system will do and how the system should perform.
+
+- **Detailed Use Cases** 
+
+A step-by-step breakdown of how the system will operate from setup to final order destination.
+
+- **Requirement Traceability** 
+
+Mapping each requirement to a business need.
+
+- **Process Flow Summary** 
+
+An explanation of how all components are integrated for real-time visibility and automation.
