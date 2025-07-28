@@ -6,5 +6,7 @@ The Business Requirements Document (BRD) includes all functional and non-functio
 ## Document Structure
 
 The BRD includes:
+
 **Executive Summary:** 
+
 Introduction to the business problem and proposed solution.
