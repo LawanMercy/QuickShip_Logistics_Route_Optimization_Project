@@ -79,9 +79,28 @@ Helped define in-scope and out-of-scope
 - **Focus on Last-Mile Delivery:** The project will primarily focus on optimizing the "last mile" delivery process, from the warehouse to the customer's location.
 - **Integration with GPS Mapping Services:** Ensuring the route optimization system integrates with GPS mapping services like Google Maps or Waze for real-time traffic data and navigation.
 
+**Out-of-Scope**
 
+- **Warehouse Management System (WMS) Implementation:** The project will not include a complete overhaul or replacement of the existing warehouse management system. However, integration with the WMS is in scope if required for data exchange.
+- **Fire Management:** The project will not focus on vehicle maintenance, fuel purchasing, or other aspects of fleet management, except where they directly impact route optimization (e.g., vehicle capacity). 
+- **Sales and Marketing Process Improvements:** The project will not address issues related to sales, marketing, or customer acquisition.
+- **Detailed Software Development:** The project will not involve detailed software development or coding. The focus is on requirements gathering, solution evaluation, and high-level implementation planning.
+- **Call Center Operations:** Improvements to the call center or customer service processes are out of scope, except where they directly relate to delivery status updates.
+- **Global Supply Chain Optimization:** This project is focused on the local delivery operations and does not extend to optimizing the broader global supply chain.
 
+## Key Stakeholders
 
+- Dispatchers
+- Warehouse Managers
+- Truck Drivers
+- Customer Service Representatives
+- IT Department
+- Executive Management
+
+## Tools Used
+- Google sheet and Slides: For presentations and documentations
+- Microsoft Excel & PowerBI: For exploratory data analysis and interactive dashboard creation.
+- Visio & Drawio: To visualize processes, map stakeholders relationships.
 
 
 
