@@ -36,5 +36,6 @@ Mapping each requirement to a business need.
 An explanation of how all components are integrated for real-time visibility and automation.
 
 ## Project Files
--** View Full BRD Document
+-** View Full BRD Document**
+
 [Click to view BRD](https://github.com/LawanMercy/QuickShip_Logistics_Route_Optimization_Project/blob/main/Day%2012%20-%20Business%20Requirements%20Document%20(BRD).pdf)
