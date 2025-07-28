@@ -118,3 +118,11 @@ The **[Project Charter PDF](https://github.com/LawanMercy/QuickShip_Logistics_Ro
 
 Following a thorough evaluation of the clear, data-driven business case, the leadership team approved the QuickShip Logistics Route Optimization project. This paved the way for QuickShip Logistics to start its route optimization project. The approved pilot sought to cut operational expenses by 25% while reducing delivery costs and improving customer satisfaction.
 
+## Lessons Learned
+
+Embarking on this project has helped me hone and sharpen these skills:
+
+  - Organize user requirements to guide decision making.
+  - Translate business challenges into data-backed solutions
+  - Collaboratively work with others, the team and efficiently use technical tools.
+  - Develop an on track and attainable scope for delivery
