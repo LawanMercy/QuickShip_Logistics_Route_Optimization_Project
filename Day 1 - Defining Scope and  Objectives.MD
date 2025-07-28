@@ -89,7 +89,6 @@ Helped define in-scope and out-of-scope
 - **Global Supply Chain Optimization:** This project is focused on the local delivery operations and does not extend to optimizing the broader global supply chain.
 
 ## Key Stakeholders
-
 - Dispatchers
 - Warehouse Managers
 - Truck Drivers
@@ -102,8 +101,16 @@ Helped define in-scope and out-of-scope
 - Microsoft Excel & PowerBI: For exploratory data analysis and interactive dashboard creation.
 - Visio & Drawio: To visualize processes, map stakeholders relationships.
 
+## Project Delioverables
+- As-Is Process Map of the current delivery workflow.
+- Requirements Document for the route optimization system.
+- Evaluation Report of potential route optimization solutions.
+- To-Be Process Map of the future delivery workflow.
+- High-Level Implementation Plan.
+- Recommendation Report with findings and proposed solution.
 
-
+## Problem Statement
+The [Project Charter PDF] outlines the full project scope, objectives, and planning details. You can view and download the document for further details.
 
 
 
