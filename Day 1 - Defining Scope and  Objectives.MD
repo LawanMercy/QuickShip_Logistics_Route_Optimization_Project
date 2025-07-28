@@ -110,7 +110,10 @@ Helped define in-scope and out-of-scope
 - Recommendation Report with findings and proposed solution.
 
 ## Problem Statement
+
 The **[Project Charter PDF](https://github.com/LawanMercy/QuickShip_Logistics_Route_Optimization_Project/blob/main/Project%20Charter.pdf)** outlines the full project scope, objectives, and planning details. You can view and download the document for further details.
 
+## Outcome
 
+Following a thorough evaluation of the clear, data-driven business case, the leadership team approved the QuickShip Logistics Route Optimization project. This paved the way for QuickShip Logistics to start its route optimization project. The approved pilot sought to cut operational expenses by 25% while reducing delivery costs and improving customer satisfaction.
 
